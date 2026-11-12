@@ -6,6 +6,7 @@ class Plane:
 
         self.year = year
         self.country = country
+        self.set_volume 
 
     def get_name(self):
         return self.__name
